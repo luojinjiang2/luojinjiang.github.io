@@ -196,22 +196,20 @@
 
   <!-- footer -->
   <footer class="footer">
-    <div class="container clearfix">
-      <div class="copy"> © 2020 <a href="https://luojinjiang2.github.io" target="_blank">my-ops</a></div>
 
-      <div class="link">
-        <a href="/" target="_blank">关于本站</a>
-        <a href="/" target="_blank">回到首页</a>
-      </div>
-    </div>
-    <div class="container clearfix">
-      <div style="text-align: center">
-        友情链接&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nav.ops-coffee.cn/" target="_blank">咖啡吧导航</a>
-      </div>
-    </div>
   </footer>
 
   <script src="/js/nav.ops-coffee.min.js"></script>
+  <script>
+    $(function(){
+      /*公共部分
+       * 导航栏
+       * footer CopyRight
+       */
+      $(".header").load("header.html");
+      $(".footer").load("footer.html");
+    });
+  </script>
 </body>
 
 </html>
