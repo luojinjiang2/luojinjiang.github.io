@@ -1,7 +1,8 @@
 ## 项目介绍
 
-这是 [个人导航](https://nav.ops-coffee.cn) 项目，由 [运维咖啡吧](https://ops-coffee.cn) 创建
+这是 [个人导航](https://luojinjiang2.github.io) 项目
 
 ## 其他说明
 
-如果你使用了本项目，请添加[咖啡吧导航](https://nav.ops-coffee.cn) 为友链，或在底部给[咖啡吧导航](https://nav.ops-coffee.cn) 个链接，感谢你的支持！
+参考了[咖啡吧导航](https://nav.ops-coffee.cn) ，记录一下，可以对其进行扩展，进行动态页面导航页的生成。
+如果你有需要可自行获取。
